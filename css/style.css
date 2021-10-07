@@ -1,0 +1,48 @@
+.rectangle {
+    width  : 80%;
+    height : 50px;
+    background : green;
+}
+.rectangleblue { 
+    width: 20%;
+    height: 50px;
+    background : blue;
+}
+.rectanglered {
+    width: 40%;
+    height: 200px;
+    background-color:red;
+}
+.rectangleorangeF {
+    width: 30%;
+    height: 100px;
+    background-color:orangered;
+}
+.rectanglegris {
+    width: 30%;
+    height: 100px;
+    background-color: grey;
+}
+.rectangleorangeclair {
+    width: 20%;
+    height: 100px;
+    background-color: orange;
+}
+.rectanglecyan {
+    width: 20%;
+    height: 100px;
+    background-color: cyan
+}
+.rectangleorange {
+    width: 20%;
+    height: 100px;
+    background-color: orange
+}
+.rectanglenoir {
+  width: 100%;
+    height: 250px;
+    background-color: black;
+}
+div {
+    float: left;
+}
